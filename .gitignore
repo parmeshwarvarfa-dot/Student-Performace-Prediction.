@@ -5,3 +5,8 @@ __pycache__/
 .env
 .streamlit/secrets.toml
 .vscode/
+# Generated files
+catboost_info/
+**/catboost_info/
+*.egg-info/
+logs/
